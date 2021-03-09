@@ -20,7 +20,7 @@ wget -qO- https://pkg.hamonikr.org/add-hamonikr-server-entjin.apt | sudo -E bash
 이제 하모니카 GUI 환경을 설치합니다.
 다음의 명령어를 터미널에 입력하세요.
 ```
-sudo apt install -y hamonikr-desktop
+sudo apt install -y hamonikr-environment
 
 ``` 
 
