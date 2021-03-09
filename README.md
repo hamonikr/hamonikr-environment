@@ -1,4 +1,4 @@
-## hamonikr-desktop
+## hamonikr-environment
 
 하모니카 GUI 환경을 제공하는 메타 패키지입니다.
 
