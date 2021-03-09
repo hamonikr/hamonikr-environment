@@ -1,6 +1,7 @@
 ## hamonikr-desktop
 
-하모니카 GUI 환경을 제공하는 메타 패키지.
+하모니카 GUI 환경을 제공하는 메타 패키지입니다.
+
 이 프로그램은 HamoniKR 기본 환경을 모두 설치하게 됩니다.
 
 Support : HamoniKR (entjin >=2.0)
