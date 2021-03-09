@@ -1,0 +1,22 @@
+Source: hamonikr-desktop
+Section: admin
+Priority: optional
+Maintainer: Kevin Kim <root@hamonikr.org>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: hamonikr-desktop
+Architecture: all
+Depends: cinnamon-desktop-environment,
+         base-files (>= 20.0.1hamonikr5), 
+         hamonikr-info (>= 2021.03.02), 
+         hamonikr-core   
+Recommends: hamonikr-onboard-layout-ko,
+            qt-fsarchiver,
+            stacer,
+            neofetch,
+            boot-select,
+            hamonikr-ff,
+            systemd-tui
+Description: Set of packages of HamoniKR
+ Set of packages installed by default in the Cinnamon edition of HamoniKR.
