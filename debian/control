@@ -1,11 +1,11 @@
-Source: hamonikr-desktop
+Source: hamonikr-environment
 Section: admin
 Priority: optional
 Maintainer: Kevin Kim <root@hamonikr.org>
 Build-Depends: debhelper (>= 5)
 Standards-Version: 3.7.2
 
-Package: hamonikr-desktop
+Package: hamonikr-environment
 Architecture: all
 Depends: cinnamon-desktop-environment,
          base-files (>= 20.0.1hamonikr5), 
