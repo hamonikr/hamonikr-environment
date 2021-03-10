@@ -20,13 +20,8 @@ Recommends: hamonikr-onboard-layout-ko,
             hamonikr-ff,
             systemd-tui,
             albert, 
-            fonts-noto-cjk-extra, 
-            fonts-inconsolata, 
             unalz,
             figlet,
-            spacefm,
-            xdotool,
-            nimf, nimf-libhangul,            
             fsearch-trunk
 Description: Set of packages of HamoniKR
  Set of packages installed by default in the Cinnamon edition of HamoniKR.
