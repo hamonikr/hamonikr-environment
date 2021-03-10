@@ -1,3 +1,10 @@
+hamonikr-environment (2021.03.10) entjin; urgency=medium
+
+  * Update debian/control
+   - update depends field
+
+ -- HamoniKR <pkg@hamonikr.org>  Wed, 10 Mar 2021 12:24:10 +0900
+
 hamonikr-environment (2021.03.09) entjin; urgency=medium
 
   * Changed pkg name

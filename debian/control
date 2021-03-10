@@ -8,15 +8,25 @@ Standards-Version: 3.7.2
 Package: hamonikr-environment
 Architecture: all
 Depends: cinnamon-desktop-environment,
+         hamonikr-core,
          base-files (>= 20.0.1hamonikr5), 
-         hamonikr-info (>= 2021.03.02), 
-         hamonikr-core   
+         ubuntu-dbgsym-keyring,
+         mintreport   
 Recommends: hamonikr-onboard-layout-ko,
             qt-fsarchiver,
             stacer,
             neofetch,
             boot-select,
             hamonikr-ff,
-            systemd-tui
+            systemd-tui,
+            albert, 
+            fonts-noto-cjk-extra, 
+            fonts-inconsolata, 
+            unalz,
+            figlet,
+            spacefm,
+            xdotool,
+            nimf, nimf-libhangul,            
+            fsearch-trunk
 Description: Set of packages of HamoniKR
  Set of packages installed by default in the Cinnamon edition of HamoniKR.
